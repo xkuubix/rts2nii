@@ -10,10 +10,11 @@ This Python project is designed to convert DICOM RT Structure files (saved in fo
 - matplotlib
 - skimage
 - os
+more details in [requirements.txt](https://github.com/xkuubix/rts2nii/blob/main/requirements.txt)
 
 ## DICOM Tags
 
-The script uses several DICOM tags for linking, identification, image properties, referencing, sequences, and ROI and contour sequences. These tags are defined as constants at the top of the script.
+The script uses several [DICOM tags](https://dicom.innolitics.com/ciods) for linking, identification, image properties, referencing, sequences, and ROI and contour sequences. These tags are defined as constants at the top of the script.
 
 ## Usage
 

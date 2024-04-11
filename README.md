@@ -15,10 +15,6 @@ This Python project is designed to convert DICOM RT Structure files (saved in fo
 
 The script uses several DICOM tags for linking, identification, image properties, referencing, sequences, and ROI and contour sequences. These tags are defined as constants at the top of the script.
 
-## Logging
-
-The script uses Python's built-in logging module to log events that happen while the program runs. The logger is configured to log at the INFO level.
-
 ## Usage
 
 To use this script, one need to have a DICOM RT Structure file with connected DICOM images to convert masks into NIfTI format. Script iterates over every directory in given path. Masks are saved in folder containing original mask in DICOM_RT-struct. Original file name is joined with ROI_NAME tags from RT-struct that are present on saved mask.

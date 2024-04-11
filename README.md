@@ -25,7 +25,7 @@ To use this script, one need to have a DICOM RT Structure file with connected DI
 
 ## Future Work
 
-The project is still under development. Future updates will include more file formats, handling overlaying ROIs, error handling.
+The project is still under development. Future updates will include more file formats, handling overlaying ROIs, error handling, CLI interface.
 
 ## Contributing
 

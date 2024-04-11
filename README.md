@@ -29,4 +29,4 @@ Contributions are welcome. Please open an issue to discuss your idea or submit a
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/xkuubix/rts2nii/blob/main/LICENSE) file for details.

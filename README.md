@@ -10,6 +10,7 @@ This Python project is designed to convert DICOM RT Structure files (saved in fo
 - matplotlib
 - skimage
 - os
+
 more details in [requirements.txt](https://github.com/xkuubix/rts2nii/blob/main/requirements.txt)
 
 ## DICOM Tags
